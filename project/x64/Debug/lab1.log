@@ -1,0 +1,6 @@
+﻿  lab1.cpp
+  Conveyor.cpp
+C:\Users\Sasha\Desktop\mrz1lab\project\Conveyor.cpp(153,2): warning C4065:  оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  Создание кода...
+C:\Users\Sasha\Desktop\mrz1lab\project\Conveyor.cpp(158,40): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+  lab1.vcxproj -> C:\Users\Sasha\Desktop\mrz1lab\project\x64\Debug\lab1.exe
